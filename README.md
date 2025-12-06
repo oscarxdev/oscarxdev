@@ -38,13 +38,13 @@
   <table align="center">
     <tr>
       <td>
-        <a href="https://x.com/K1riDev" target="_blank">
+        <a href="https://x.com/kirii86" target="_blank">
           <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="X logo" />
         </a>
       </td>
       <td width="15"></td>
       <td>
-        <a href="https://www.instagram.com/k1ridev/" target="_blank">
+        <a href="https://www.instagram.com/osc4r_dev/" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="Instagram logo" />
         </a>
       </td>
@@ -69,41 +69,15 @@
 <!-- Activity Graph -->
 <div align="center">
   <h2>⚡ Actividad Reciente</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K1riDev&custom_title=Gráfico%20de%20Actividad%20de%20K1riDev&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<!-- GitHub Stats Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=300&height=40&lines=Estadísticas+de+GitHub" alt="GitHub Stats" />
-  </h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=K1riDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="K1riDev's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=K1riDev&theme=tokyonight&hide_border=true" alt="K1riDev's Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1riDev&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="K1riDev's Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirii86&custom_title=Gráfico%20de%20Actividad%20de%20kirii86&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <!-- Astro Contribution Badge -->
 <div align="center">
   <h3>🚀 Contribuciones a Astro</h3>
-  <a href="https://astro.badg.es/contributor/K1riDev/">
-    <img src="https://astro.badg.es/v2/contributor/K1riDev.svg" alt="@K1riDev Astro contributions" width="300">
-  </a>
+<a href="https://astro.badg.es/contributor/kirii86/">
+  <img src="https://astro.badg.es/v2/contributor/kirii86.svg" alt="@kirii86 Astro contributions" width="260" height="156">
+</a>
 </div>
 
 <!-- Tech Stack Section -->
@@ -146,7 +120,7 @@
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35">&nbsp;
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD60A&center=true&vCenter=true&width=250&height=40&lines=Trofeos+de+GitHub" alt="GitHub Trophies" />
   </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=K1riDev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kirii86&theme=monokai" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -180,3 +154,4 @@
 <div align="center">
   <h3>⭐ "El mejor código es el que no necesitas escribir" - K1riDev</h3>
 </div>
+
