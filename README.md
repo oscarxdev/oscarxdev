@@ -72,14 +72,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirii86&custom_title=Gráfico%20de%20Actividad%20de%20kirii86&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
 </div>
 
-<!-- Astro Contribution Badge -->
-<div align="center">
-  <h3>🚀 Contribuciones a Astro</h3>
-<a href="https://astro.badg.es/contributor/kirii86/">
-  <img src="https://astro.badg.es/v2/contributor/kirii86.svg" alt="@kirii86 Astro contributions" width="260" height="156">
-</a>
-</div>
-
 <!-- Tech Stack Section -->
 <div align="center">
   <h2>
@@ -114,29 +106,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Astro+para+sitios+ultra+rápidos+⚡;React+para+interfaces+dinámicas+🎭;Next.js+para+aplicaciones+full-stack+🚀;GraphQL+para+APIs+eficientes+📊" alt="Currently Learning" />
 </div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35">&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD60A&center=true&vCenter=true&width=250&height=40&lines=Trofeos+de+GitHub" alt="GitHub Trophies" />
-  </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=kirii86&theme=monokai" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Random Dev Quote -->
-<div align="center">
-  <h3>💭 Pensamiento del Día</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <h3>👁️‍🗨️ Visitantes del Perfil</h3>
-  <img src="https://komarev.com/ghpvc/?username=K1riDev&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-</div>
-
 <!-- Support Section -->
 <div align="center">
   <h3>☕ Apóyame</h3>
@@ -149,9 +118,5 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=¡Gracias%20por%20visitar!&fontSize=32&fontColor=fff&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <h3>⭐ "El mejor código es el que no necesitas escribir" - K1riDev</h3>
 </div>
 
