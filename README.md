@@ -74,13 +74,18 @@
   </h2>
 </div>
 
-<p align="center">
-  <a href="https://stats.hyo.dev">
-    <img src="https://stats.hyo.dev/api/github-stats?login=oscarxdev" alt="Hyo Stats" height="185" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://gh-readme-profile.vercel.app/api?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&border_color=10b981&username=oscarxdev" alt="GitHub Stats" height="185" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://stats.hyo.dev">
+        <img src="https://stats.hyo.dev/api/github-stats?login=oscarxdev" alt="Hyo Stats" height="150" />
+      </a>
+    </td>
+    <td>
+      <img src="https://gh-readme-profile.vercel.app/api?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&border_color=10b981&username=oscarxdev" alt="GitHub Stats" height="150" />
+    </td>
+  </tr>
+</table>
 
 <!-- Activity Graph Section -->
 <div align="center">
@@ -110,7 +115,7 @@
 <!-- Backend Technologies -->
 <div align="center">
   <h3>⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,django,firebase,supabase,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,python,express,fastapi,django,firebase,supabase,postgres,mongodb" />
 </div>
 
 <!-- Tools & Others -->
