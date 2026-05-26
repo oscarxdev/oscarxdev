@@ -78,7 +78,7 @@
   <tr>
     <td>
       <a href="https://stats.hyo.dev">
-        <img src="https://stats.hyo.dev/api/github-stats?login=oscarxdev" alt="Hyo Stats" height="150" />
+        <img src="https://stats.hyo.dev/api/github-stats-advanced?login=oscarxdev" alt="Hyo Stats" height="150" />
       </a>
     </td>
     <td>
