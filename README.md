@@ -74,18 +74,13 @@
   </h2>
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://stats.hyo.dev">
-        <img src="https://stats.hyo.dev/api/github-stats-advanced?login=oscarxdev" alt="Hyo Stats" height="150" />
-      </a>
-    </td>
-    <td>
-      <img src="https://gh-readme-profile.vercel.app/api?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&border_color=10b981&username=oscarxdev" alt="GitHub Stats" height="150" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://stats.hyo.dev">
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=oscarxdev" alt="Hyo Stats" width="48%" />
+  </a>
+  &nbsp;
+  <img src="https://gh-readme-profile.vercel.app/api?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&border_color=10b981&username=oscarxdev" alt="GitHub Stats" width="48%" />
+</p>
 
 <!-- Activity Graph Section -->
 <div align="center">
