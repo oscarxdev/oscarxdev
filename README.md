@@ -66,31 +66,31 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Activity Graph -->
-</p>
-<!-- Developer Power Meter Section -->
-<div align="center">
-  <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32" />&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=Developer+Power+Meter" alt="Developer Power Meter" />
-  </h2>
-</div>
-
-<p align="center">
-
-[![Hyo Stats](https://stats.hyo.dev/api/github-stats-advanced?login=oscarxdev)](https://stats.hyo.dev)
-</p>
-
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats & Power Meter Section -->
 <div align="center">
   <h2>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32" />&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10b981&center=true&vCenter=true&width=380&height=40&lines=Estadísticas+GitHub" alt="GitHub Stats" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10b981&center=true&vCenter=true&width=450&height=40&lines=Estadísticas+%7C+Power+Meter" alt="GitHub Stats & Power Meter" />
   </h2>
 </div>
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&border_color=10b981&username=oscarxdev" alt="GitHub Stats" />
+  <a href="https://stats.hyo.dev">
+    <img src="https://stats.hyo.dev/api/github-stats?login=oscarxdev" alt="Hyo Stats" height="185" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://gh-readme-profile.vercel.app/api?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&border_color=10b981&username=oscarxdev" alt="GitHub Stats" height="185" />
+</p>
+
+<!-- Activity Graph Section -->
+<div align="center">
+  <h2>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="32" height="32" />&nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=350&height=40&lines=Actividad+de+GitHub" alt="Actividad de GitHub" />
+  </h2>
+</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscarxdev&theme=react-dark&bg_color=0d1117&hide_border=false" alt="Activity Graph" />
 </p>
 
 <!-- Tech Stack Section -->
