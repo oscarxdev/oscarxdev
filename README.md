@@ -66,11 +66,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub Stats & Power Meter Section -->
+<!-- Developer Power Meter Section -->
 <div align="center">
   <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32" />&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10b981&center=true&vCenter=true&width=450&height=40&lines=Estadísticas+%7C+Power+Meter" alt="GitHub Stats & Power Meter" />
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32" />&nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=Developer+Power+Meter" alt="Developer Power Meter" />
   </h2>
 </div>
 
