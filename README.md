@@ -67,10 +67,31 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Activity Graph -->
+</p>
+<!-- Developer Power Meter Section -->
 <div align="center">
-  <h2>⚡ Actividad Reciente</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirii86&custom_title=Gráfico%20de%20Actividad%20de%20kirii86&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  <h2>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32" />&nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=Developer+Power+Meter" alt="Developer Power Meter" />
+  </h2>
 </div>
+
+<p align="center">
+
+[![Hyo Stats](https://stats.hyo.dev/api/github-stats-advanced?login=oscarxdev)](https://stats.hyo.dev)
+</p>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <h2>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32" />&nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10b981&center=true&vCenter=true&width=380&height=40&lines=Estadísticas+GitHub" alt="GitHub Stats" />
+  </h2>
+</div>
+
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&border_color=10b981&username=oscarxdev" alt="GitHub Stats" />
+</p>
 
 <!-- Tech Stack Section -->
 <div align="center">
