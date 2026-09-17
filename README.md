@@ -1,143 +1,146 @@
-<!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=¡Hola!+👋+Soy+Oscar+%7C+K1riDev;Desarrollador+Full+Stack+🚀;Creando+experiencias+digitales+increíbles+✨" alt="Typing SVG" />
+
+<img referrerpolicy="no-referrer" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=A855F7&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+Developer;Go+%C2%B7+TypeScript+%C2%B7+Astro;Autodidacta%2C+sin+prisa+y+sin+atajos" alt="OscarDev" />
+
+# Hola, soy Oscar
+
+### XOscarDevX
+
+`España` · `CodeDevsX` · `disponible para trabajar`
+
+<a href="https://x.com/XOscarDevX"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/codef1ow/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/oscardevx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:contact@kiridev.me"><img src="https://img.shields.io/badge/contact@kiridev.me-0D1117?style=flat-square&logo=maildotru&logoColor=A855F7" alt="Email" /></a>
+<a href="https://github.com/oscarxdev?tab=followers"><img src="https://img.shields.io/github/followers/oscarxdev?label=seguidores&style=flat-square&color=A855F7&labelColor=0D1117" alt="Seguidores" /></a>
+<img src="https://komarev.com/ghpvc/?username=oscarxdev&label=visitas&color=7C3AED&style=flat-square" alt="Visitas" />
+
 </div>
 
+## Sobre mí
+
+<img align="right" width="130" alt="Oscar" src="https://avatars.githubusercontent.com/u/47194884?v=4" />
+
+Empecé haciendo páginas estáticas para clientes. De ahí salieron dos proyectos propios que no tienen nada que ver entre sí: **CodeXtremeOS**, una ISO de Windows optimizada que ya usa gente que no conozco, y **CodeWinOptimizer**, una app de escritorio en Go para ajustar y personalizar Windows.
+
+Hoy lo que más tiempo me come es **Albion Battle Hub**, una web de estadísticas y herramientas para Albion Online que uso yo mismo a diario y que mantengo en producción.
+
+- Trabajo sobre todo con **TypeScript y Astro** para web, y **Go** cuando el proyecto necesita algo nativo.
+- Antes tocaba **Lua, Ruby on Rails, React y Bootstrap**; sigo usándolos cuando el proyecto lo pide.
+- Fuera del teclado: MMO y videojuegos. De ahí vino la manía de medirlo y optimizarlo todo.
+
+<br clear="right" />
+
+## Ahora
+
+- Construyendo y desplegando **Albion Battle Hub** casi a diario. Es lo que tengo en producción y donde más aprendo.
+- Sacando versiones de **CodeWinOptimizer** y puliendo la web de **CodeXtremeOS**.
+- Con hueco para **freelance y proyectos remotos**: si algo encaja, escríbeme y lo hablamos.
+
+<sub>Actualizado en septiembre de 2026.</sub>
+
+## Stack
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+**Lenguajes**
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,python,lua,ruby,html,css" alt="Lenguajes" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,astro,nextjs,tailwind,bootstrap,vite" alt="Frontend" />
+
+**Backend y datos**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgres,mongodb,firebase,supabase" alt="Backend" />
+
+**Entorno y despliegue**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel,netlify,npm,figma" alt="Herramientas" />
+
 </div>
 
-<!-- About Me Section -->
+## GitHub en números
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=200&height=40&lines=Sobre+mí" alt="About Me" />
-  </h2>
+
+<img referrerpolicy="no-referrer" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarxdev&theme=dark&hide_border=true&background=0D1117&border=0D1117&stroke=0D1117&ring=A855F7&fire=7C3AED&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&excludeDaysLabel=8B949E" alt="Racha de contribuciones" />
+
+<br />
+
+<img referrerpolicy="no-referrer" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oscarxdev&theme=github_dark" alt="Resumen de actividad" />
+
 </div>
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## Proyectos
 
-- 🚀 **Desarrollador Full Stack** apasionado por crear soluciones innovadoras
-- 🌱 **Actualmente aprendiendo:** Astro, React y tecnologías emergentes
-- 💡 **Especializado en:** JavaScript, TypeScript, Python y desarrollo web moderno
-- 🎮 **Dato curioso:** Me encantan los MMO y los videojuegos
-- 💬 **Pregúntame sobre:** Desarrollo web, APIs, bases de datos o cualquier tecnología
-- 📫 **Contacto:** Puedes encontrarme en mis redes sociales
-- ⚡ **Filosofía:** "El código limpio no se escribe siguiendo un conjunto de reglas. Lo escribes siguiendo un conjunto de valores."
-
-<br/>
-
-<!-- Social Media Links -->
 <div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="📬" width="35" height="35" />
-    &nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F72585&center=true&vCenter=true&width=250&height=35&lines=Conecta+conmigo" alt="Connect with me" />
-  </h3>
 
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://x.com/kirii86" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="X logo" />
-        </a>
-      </td>
-      <td width="15"></td>
-      <td>
-        <a href="https://www.instagram.com/osc4r_dev/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="Instagram logo" />
-        </a>
-      </td>
-      <td width="15"></td>
-      <td>
-        <a href="https://www.linkedin.com/in/codef1ow/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="LinkedIn logo" />
-        </a>
-      </td>
-      <td width="15"></td>
-      <td>
-        <a href="mailto:kiridev.contact@gmail.com" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="Gmail logo" />
-        </a>
-      </td>
-    </tr>
-  </table>
+### Albion Battle Hub
+
+Killboard, builds, herramientas de crafteo y estadísticas de guilds y ZvZ para Albion Online. La uso yo a diario y la mantengo en producción, en español, inglés y chino.
+
+[**albionbattlehub.com**](https://albionbattlehub.com)
+
+<sub>No es de código abierto. Es lo que más tiempo me está llevando ahora mismo.</sub>
+
+<img src="https://img.shields.io/badge/En_producci%C3%B3n-0D1117?style=flat-square&logo=statuspage&logoColor=7C3AED" alt="En producción" />
+<img src="https://img.shields.io/badge/C%C3%B3digo_cerrado-0D1117?style=flat-square&logo=github&logoColor=8B949E" alt="Código cerrado" />
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- Developer Power Meter Section -->
 <div align="center">
-  <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32" />&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=Developer+Power+Meter" alt="Developer Power Meter" />
-  </h2>
+
+### CodeXtremeOS
+
+Web oficial de mi ISO de Windows optimizada: descarga, guías y changelog.
+
+[**Web**](https://codextreme.es) · [**Repo**](https://github.com/oscarxdev/codextreme-web)
+
+<a href="https://github.com/oscarxdev/codextreme-web"><img src="https://img.shields.io/github/stars/oscarxdev/codextreme-web?label=estrellas&style=flat-square&color=A855F7&labelColor=0D1117" alt="Estrellas" /></a>
+<a href="https://github.com/oscarxdev/codextreme-web/forks"><img src="https://img.shields.io/github/forks/oscarxdev/codextreme-web?label=forks&style=flat-square&color=7C3AED&labelColor=0D1117" alt="Forks" /></a>
+<img src="https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />
+
 </div>
 
-<p align="center">
-  <a href="https://stats.hyo.dev">
-    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=oscarxdev" alt="Hyo Stats" width="48%" />
-  </a>
-  &nbsp;
-  <img src="https://gh-readme-profile.vercel.app/api?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&border_color=10b981&username=oscarxdev" alt="GitHub Stats" width="48%" />
-</p>
+---
 
-<!-- Activity Graph Section -->
 <div align="center">
-  <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="32" height="32" />&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=350&height=40&lines=Actividad+de+GitHub" alt="Actividad de GitHub" />
-  </h2>
-</div>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscarxdev&theme=react-dark&bg_color=0d1117&hide_border=false" alt="Activity Graph" />
-</p>
 
-<!-- Tech Stack Section -->
-<div align="center">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=06FFA5&center=true&vCenter=true&width=280&height=40&lines=Stack+Tecnológico" alt="Tech Stack" />
-  </h2>
+### CodeWinOptimizer
+
+Optimización y personalización de Windows: app de escritorio más su web.
+
+[**Web**](https://codewinoptimizer.com) · [**App**](https://github.com/oscarxdev/CodeWinOptimizer-App) · [**Repo web**](https://github.com/oscarxdev/CodeWinOptimizer-Web)
+
+<a href="https://github.com/oscarxdev/CodeWinOptimizer-App"><img src="https://img.shields.io/github/stars/oscarxdev/CodeWinOptimizer-App?label=estrellas&style=flat-square&color=A855F7&labelColor=0D1117" alt="Estrellas" /></a>
+<a href="https://github.com/oscarxdev/CodeWinOptimizer-App/forks"><img src="https://img.shields.io/github/forks/oscarxdev/CodeWinOptimizer-App?label=forks&style=flat-square&color=7C3AED&labelColor=0D1117" alt="Forks" /></a>
+<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+
 </div>
 
-<!-- Frontend Technologies -->
-<div align="center">
-  <h3>🎨 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,astro,html,css,tailwind,bootstrap" />
-</div>
+---
 
-<!-- Backend Technologies -->
-<div align="center">
-  <h3>⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,python,express,fastapi,django,firebase,supabase,postgres,mongodb" />
-</div>
+| Proyecto | Qué es | Stack | Enlace |
+| --- | --- | --- | --- |
+| **CodeWinOptimizer · web** | Web de la suite: landing, descargas y documentación | TypeScript | [repo](https://github.com/oscarxdev/CodeWinOptimizer-Web) |
+| **kc_adminV2** | Panel de administración para servidores de rol; el repo con más forks que tengo | Lua | [repo](https://github.com/oscarxdev/kc_adminV2) |
+| **albiondata-server-rails** | Fork activo del servidor de datos de mercado de Albion Online | Ruby on Rails | [repo](https://github.com/oscarxdev/albiondata-server-rails) |
+| **mmorpg-portfolio** | Mi portfolio personal, con estética de MMO; el primer proyecto que fue solo mío | Astro | [web](https://kiridev.me) |
 
-<!-- Tools & Others -->
-<div align="center">
-  <h3>🛠️ Herramientas & Otros</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,netlify,npm,yarn" />
-</div>
+## Dónde encontrarme
 
-<!-- Currently Learning -->
 <div align="center">
-  <h3>📚 Actualmente Aprendiendo</h3>
-  <img src="https://skillicons.dev/icons?i=astro,react,nextjs,graphql" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Astro+para+sitios+ultra+rápidos+⚡;React+para+interfaces+dinámicas+🎭;Next.js+para+aplicaciones+full-stack+🚀;GraphQL+para+APIs+eficientes+📊" alt="Currently Learning" />
-</div>
 
-<!-- Support Section -->
-<div align="center">
-  <h3>☕ Apóyame</h3>
-  <p>Si te gusta mi trabajo, considera apoyarme ☕</p>
-  <a href="https://paypal.me/botarctic" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-</div>
+<a href="mailto:contact@kiridev.me"><img src="https://img.shields.io/badge/contact@kiridev.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/codef1ow/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/kirii86"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://paypal.me/botarctic"><img src="https://img.shields.io/badge/Invitarme_a_un_café-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=¡Gracias%20por%20visitar!&fontSize=32&fontColor=fff&animation=twinkling"/>
-</div>
+<sub>Respondo antes a un correo que a un DM. Si es un proyecto, cuéntame el problema y no la tecnología.</sub>
 
+</div>
