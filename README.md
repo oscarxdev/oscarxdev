@@ -11,7 +11,7 @@
 <a href="https://x.com/XOscarDevX"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.linkedin.com/in/codef1ow/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/oscardevx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:contact@kiridev.me"><img src="https://img.shields.io/badge/contact@kiridev.me-0D1117?style=flat-square&logo=maildotru&logoColor=A855F7" alt="Email" /></a>
+<a href="mailto:contacto@albionbattlehub.com"><img src="https://img.shields.io/badge/contacto@albionbattlehub.com-0D1117?style=flat-square&logo=maildotru&logoColor=A855F7" alt="Email" /></a>
 <a href="https://github.com/oscarxdev?tab=followers"><img src="https://img.shields.io/github/followers/oscarxdev?label=seguidores&style=flat-square&color=A855F7&labelColor=0D1117" alt="Seguidores" /></a>
 <img src="https://komarev.com/ghpvc/?username=oscarxdev&label=visitas&color=7C3AED&style=flat-square" alt="Visitas" />
 
@@ -130,15 +130,14 @@ Optimización y personalización de Windows: app de escritorio más su web.
 | **CodeWinOptimizer · web** | Web de la suite: landing, descargas y documentación | TypeScript | [repo](https://github.com/oscarxdev/CodeWinOptimizer-Web) |
 | **kc_adminV2** | Panel de administración para servidores de rol; el repo con más forks que tengo | Lua | [repo](https://github.com/oscarxdev/kc_adminV2) |
 | **albiondata-server-rails** | Fork activo del servidor de datos de mercado de Albion Online | Ruby on Rails | [repo](https://github.com/oscarxdev/albiondata-server-rails) |
-| **mmorpg-portfolio** | Mi portfolio personal, con estética de MMO; el primer proyecto que fue solo mío | Astro | [web](https://kiridev.me) |
 
 ## Dónde encontrarme
 
 <div align="center">
 
-<a href="mailto:contact@kiridev.me"><img src="https://img.shields.io/badge/contact@kiridev.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:contacto@albionbattlehub.com"><img src="https://img.shields.io/badge/contacto@albionbattlehub.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/codef1ow/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/kirii86"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://x.com/XOscarDevX"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://paypal.me/botarctic"><img src="https://img.shields.io/badge/Invitarme_a_un_café-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a>
 
 <sub>Respondo antes a un correo que a un DM. Si es un proyecto, cuéntame el problema y no la tecnología.</sub>
